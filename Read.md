@@ -6,6 +6,9 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muaddhalsway&label=Profile%20views&color=0e75b6&style=flat" alt="muaddhalsway" /> </p>
+
+
 <h1 align="left">📲 Contact Me:</h1>
 
 ###
