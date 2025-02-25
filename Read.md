@@ -52,6 +52,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/MuaddhAlsway/MuaddhAlsway/output/github-snake.svg" />
 </picture>
 
+###
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muaddhalsway&show_icons=true&locale=en&layout=compact" alt="muaddhalsway" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muaddhalsway&show_icons=true&locale=en" alt="muaddhalsway" /></p>
