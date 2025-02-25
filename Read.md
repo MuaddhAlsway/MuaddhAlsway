@@ -1,3 +1,5 @@
+<img src="Rainbow Gradient Pink and Purple Virtual Background.png" alt="GitHub Banner" width="100%" />
+
 <h2 align="left">Hello World! 👋 I'm Muaddh, A Front End Developer</h2>
 
 ###
