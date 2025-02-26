@@ -100,6 +100,6 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Thank you for visit! ✌️;     Shooting%20me%20a%20message%20on%20LinkedIn 🖐️;&font=Fira%20Code&center=true&width=480&height=45&color=blue&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Thank you for visit! ✌️;       Message%20Me%20on%20LinkedIn 🖐️;&font=Fira%20Code&center=true&width=480&height=45&color=blue&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
