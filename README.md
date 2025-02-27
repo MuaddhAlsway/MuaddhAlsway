@@ -61,9 +61,9 @@
 </div>
 <div align=center>
         <img width=390 src="https://github-readme-stats.vercel.app/api?username=MuaddhAlsway&theme=react&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" alt="streak stats"/>
-        <img width=390 height=170  src="https://github-readme-stats-salesp07.vercel.app/api?username=MuaddhAlsway&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-        <img width=390 align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=MuaddhAlsway&theme=dark&hide_border=false&border_radius=10&theme=react" alt="streak stats"/>
-        <img width=330 align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuaddhAlsway&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10" alt="top langs" />
+        <img width=390  src="https://github-readme-stats-salesp07.vercel.app/api?username=MuaddhAlsway&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+        <img width=390   src="https://github-readme-streak-stats.herokuapp.com/?user=MuaddhAlsway&theme=dark&hide_border=false&border_radius=10&theme=react" alt="streak stats"/>
+        <img width=330   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuaddhAlsway&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10" alt="top langs" />
     
 </div>
   
