@@ -77,7 +77,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuaddhAlsway/picture/blob/main/Screenshot%202025-03-01%20143302.png?raw=true&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=450&border_radius=5&duration=172">
     <img src="https://github.com/MuaddhAlsway/picture/blob/main/Screenshot%202025-03-01%20142651.png?raw=true"  width="220" &title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="GitHub Star Swag Unboxing and Giveaways">
   </picture>
-</a>
+</a><be>
 <a href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-html-css-activity-7268924770082000896-O8A7?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8"
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuaddhAlsway/picture/blob/main/Airbnb.png?raw=true&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=450&border_radius=5&duration=172">
