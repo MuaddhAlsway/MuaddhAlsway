@@ -68,7 +68,7 @@
 <a  href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-html-css-activity-7311701650274938880-ZZQZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuaddhAlsway/Uber/blob/main/ReadMeUber.png?raw=true&title=🚀+Project+Update+:+Uber+Front+-+End+-+Study&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=450&border_radius=5&duration=172">
-    <img src="https://github.com/MuaddhAlsway/picture/blob/main/PayPal.png?raw=true" width="224"  &title=🚀+Project+Update+:+Paypal+Front+-+End+-+Study&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="🚀 Project Update : Paypal Front-End Study">
+    <img src="https://github.com/MuaddhAlsway/picture/blob/main/PayPal.png?raw=true" width="224"  &title=🚀+Project+Update+:+Uber+Front+-+End+-+Study&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="🚀 Project Update : Paypal Front-End Study">
   </picture>
 </a>
 <a  href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-frontend-portfolioproject-activity-7301546575229554688-eeLV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8">
