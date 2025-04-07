@@ -1,17 +1,21 @@
 <img src="Rainbow Gradient Pink and Purple Virtual Background(2).png" alt="GitHub Banner" width="100%" />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
 
 <h1 align="center" >
-    Hi 👋! I'm Muaddh Alsway
+  Hi 👋! I'm Muaddh Alsway
 </h1>
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20developer;Passionate%20Programmer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20Developer;Passionate%20Programmer;Always%20learning%20new%20things&font=Inter&center=true&width=440&height=45&color=0A66C2&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
+
 
 ###
 
-<p align="center">📚 I'm currently Studying Computer Science</p>
+<p align="center" style="font-family: 'Space Grotesk', sans-serif;" >📚 I'm currently Studying Computer Science</p>
 
 ###
 
