@@ -60,7 +60,7 @@
 
 
 
-<h1 align="center">📬 Latest Project Post:</h1>
+<h1 align="center">📬 Highlight Project Post:</h1>
 
 <br clear="both">
 <div align="center">
