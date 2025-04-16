@@ -151,12 +151,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=MuaddhAlsway&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">🔝 Top Contributed Repo</h1>
-
-<div align="center">
-        <img width=390 src="https://github-contributor-stats.vercel.app/api?username=MuaddhAlsway&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="streak stats"/>
-</div>
 
 
 ---
