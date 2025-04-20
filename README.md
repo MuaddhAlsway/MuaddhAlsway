@@ -1,30 +1,45 @@
-<img src="Rainbow Gradient Pink and Purple Virtual Background(2).png" alt="GitHub Banner" width="100%" />
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
-
-<h1 align="center" >
-  Hi 👋! I'm Muaddh Alsway
-</h1>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20Developer;Passionate%20Programmer;Always%20learning%20new%20things&font=Inter&center=true&width=440&height=45&color=258cf4&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
+<div align="center">
 
 
-###
 
-<p align="center" style="font-family: 'Space Grotesk', sans-serif;" >📚 I'm currently Studying Computer Science</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffff&width=435&lines=Welcome+To+My+World.;Lets+%2C+Scroll+Down+For+Enter%E2%AC%87%EF%B8%8F.)](https://git.io/typing-svg)  
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=MuaddhAlsway&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Rohit GitHub Stats">
+</div>
 
-###
-
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muaddhalsway&label=Hello%20vistor&color=0e75b6&style=flattext=Hello%20Visitors" alt="muaddhalsway" /> </p>
+
+<br>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffff&width=435&lines=I'm+Muaddh+Alsway.;I'm+Passion+Programming;)](https://git.io/typing-svg)  
+
+</div>
+
+<hr>
+
+ <p align="center" style="font-family: 'Space Grotesk', sans-serif;" >📚 I'm currently Studying Computer Science</p>
+
+###
+<img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+
+<br>
+<br>
+<br>
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------->
+<div align="left" >
+<h3 >My interests are : </h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=blue&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Programming+Languages;)](https://git.io/typing-svg)
+</div>
+
+
 
 
 <h1 align="center">📲 Contact Me:</h1>
-
-###
 
 <div align="center">
   <a href="https://mail.google.com/mail/muaddhalsway.com" target="_blank">
@@ -35,13 +50,12 @@
   </a>
 </div>
 
-###
+
 
 
 
 <h1 align="center">💻 Tech Stack:</h1>
 
-###
 
 <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -56,7 +70,7 @@
 
 </div>
 
-###
+
 
 
 
@@ -123,19 +137,14 @@
 <br/>
 
 
----
+
 [![](https://visitcount.itsvg.in/api?id=MuaddhAlsway&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-    
+
 </div>
   
 
-<br>
-<br>
 
-
----
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -156,9 +165,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MuaddhAlsway&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Thank you for visit! ✌️;       Message%20Me%20on%20LinkedIn 🖐️;&font=Fira%20Code&center=true&width=480&height=45&color=blue&vCenter=true&pause=1000&size=22" /></a>
-</p>
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+<!----------
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![EngineerRohit01](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<br>
+</p>
