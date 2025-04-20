@@ -22,7 +22,6 @@
  <p align="center" style="font-family: 'Space Grotesk', sans-serif;" >📚 I'm currently Studying Computer Science</p>
 
 ###
-<img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 
 <!----------------------------------------------------------------------------------------------------------------------->
@@ -32,11 +31,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=blue&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Programming+Languages;)](https://git.io/typing-svg)
 </div>
 
+
+<img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+
 <br>
 <br>
 <br>
 <br>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
 
 
 <h1 align="center">📲 Contact Me:</h1>
