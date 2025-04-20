@@ -24,10 +24,6 @@
 ###
 <img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
-<br>
-<br>
-<br>
-<br>
 
 <!----------------------------------------------------------------------------------------------------------------------->
 <div align="left" >
@@ -36,6 +32,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=blue&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Programming+Languages;)](https://git.io/typing-svg)
 </div>
 
+<br>
+<br>
+<br>
+<br>
 
 
 
