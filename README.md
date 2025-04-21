@@ -1,27 +1,21 @@
-<div align="center">
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffff&width=435&lines=Welcome+To+My+World.;Lets+%2C+Scroll+Down+For+Enter%E2%AC%87%EF%B8%8F.)](https://git.io/typing-svg)  
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=MuaddhAlsway&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Rohit GitHub Stats">
-</div>
-
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muaddhalsway&label=Hello%20vistor&color=0e75b6&style=flattext=Hello%20Visitors" alt="muaddhalsway" /> </p>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <br>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffff&width=435&lines=I'm+Muaddh+Alsway.;I'm+Passion+Programming;)](https://git.io/typing-svg)  
 
+<h1 align="center">Hi 👋, I'm Muaddh Alsway</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=blue&random=false&width=435&lines=Passaion+Programming+;Front+End+Developer;<+Hello+/+World+>;)](https://git.io/typing-svg)
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
-<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuaddhAlsway&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
- <p align="center" style="font-family: 'Space Grotesk', sans-serif;" >📚 I'm currently Studying Computer Science</p>
 
-###
+
+- 🌱 I’m currently studying Computer Science
 
 
 <!----------------------------------------------------------------------------------------------------------------------->
@@ -31,23 +25,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=blue&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Programming+Languages;)](https://git.io/typing-svg)
 </div>
 
-
-<img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
-
-<br>
 <br>
 <br>
 <br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
+
 
 
 <h1 align="center">📲 Contact Me:</h1>
