@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuaddhAlsway&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 
-##### 📚 Currently Studying
+#### 📚 Currently Studying
 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="20"/> <img src="https://img.icons8.com/officel/40/000000/react.png" width="20"/> 
 
