@@ -17,7 +17,7 @@
 
 #### 📚 Currently Studying
 
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" width="20"/> <img src="https://img.icons8.com/officel/40/000000/react.png" width="20"/> 
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" width="20"/> <img src="https://img.icons8.com/officel/40/000000/react.png" width="20"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="nextjs logo" />
 
 <!----------------------------------------------------------------------------------------------------------------------->
 <div align="left" >
@@ -69,8 +69,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-
-
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+      
+  
 
 
 </div>
