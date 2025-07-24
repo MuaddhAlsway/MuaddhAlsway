@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=blue&random=false&width=435&lines=Passaion+Programming+;Front+End+Developer;<+Hello+/+World+>;)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Animated programmer coding illustration" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuaddhAlsway&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
