@@ -17,7 +17,11 @@
 
 #### 📚 Currently Studying
 
- <img src="https://img.icons8.com/officel/40/000000/react.png" width="20"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  height="20" width="20" alt="nextjs logo" />
+ <img src="https://img.icons8.com/officel/40/000000/react.png" width="20"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  height="20" width="20" alt="nextjs logo" /> <i class="bxl bx-gsap" />  
+ 
+
+
+
 
 <!----------------------------------------------------------------------------------------------------------------------->
 <div align="left" >
