@@ -1,5 +1,5 @@
 
-<img width="100%"  alt="20250714_1837_Modern Coding Workspace_simple_compose_01k04s6sn2egw9f5qatbtnhzgc" src="https://github.com/MuaddhAlsway/logoimg/blob/main/logomulab.png" />
+<img width="100%"  alt="20250714_1837_Modern Coding Workspace_simple_compose_01k04s6sn2egw9f5qatbtnhzgc" src="https://github.com/MuaddhAlsway/logoimg/blob/main/github-readme-banner-4k.png" />
 
 <br>
 <div align="center">
