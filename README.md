@@ -116,6 +116,8 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 <div align="center">
 
+<div align="center">
+
 # 🚀 Featured Full-Stack Projects
 
 ### From concept to production.
@@ -156,6 +158,8 @@ Webhook reconciliation • Booking lifecycle • Automated emails • Admin dash
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/quickshowpro)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://quickshowprofront.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/d3A4n2Wh)
+[![Notion](https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/GreatStack-Movie-Ticket-Booking-Platform-3d0e97a262dc81dfb1b3fc98f9e46ebc?source=copy_link)
 
 <br><br>
 
@@ -195,6 +199,8 @@ Order management • Customer profiles • Email workflows • Admin dashboard
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/Forever_Mu)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://forever-frontend-alpha-mauve.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/eHwFxRnf)
+[![Notion](https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/GreatStack-MERN-E-commerce-Platform-with-Stripe-3e1e97a262dc8138be7bcd06faffeaa5?source=copy_link)
 
 <br><br>
 
@@ -235,6 +241,7 @@ Property management • Viewing requests • Agent management • Analytics
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/realstate)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=000000)](https://realstate-1-ypty.onrender.com/)
 [![API](https://img.shields.io/badge/API-181717?style=for-the-badge&logo=render&logoColor=white)](https://realstate-rfu5.onrender.com/api/health)
+[![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/eMPynEQP)
 
 <br><br>
 
