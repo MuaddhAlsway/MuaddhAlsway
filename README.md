@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Muaddh Alsway</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=blue&random=false&width=435&lines=Passaion+Programming+;Front+End+Developer;<+Hello+/+World+>;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=blue&random=false&width=600&lines=Full-Stack+Developer;Building+%26+Shipping+Full-Stack+Projects;React+%7C+Node.js+%7C+Express;Always+Learning+%26+Leveling+Up;Hello+World+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img align="right" alt="Animated programmer coding illustration" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
@@ -17,7 +17,13 @@
 
 #### 📚 Currently Studying
 
- <img src="https://img.icons8.com/officel/40/000000/react.png" width="20"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  height="20" width="20" alt="nextjs logo" />       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  height="20" width="20" alt="PHP logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" width="20" alt="Node.js logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" width="20" alt="React logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" width="20" alt="Next.js logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" width="20" alt="TypeScript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" width="20" alt="PostgreSQL logo" />
+
+**Node.js • React • Next.js • TypeScript • PostgreSQL**
 
 
  
@@ -26,10 +32,11 @@
 
 
 <!----------------------------------------------------------------------------------------------------------------------->
-<div align="left" >
-<h3 >My interests are : </h3>
+<div align="left">
+<h3>🚀 My Interests:</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=blue&random=false&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;Programming+Languages;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=blue&random=false&width=600&lines=Full-Stack+Development;Software+Engineering;System+Design+%26+Architecture;Data+Structures+%26+Algorithms;Backend+Development+%26+APIs;Databases+%26+Cloud+Deployment;Building+Production-Ready+Applications)](https://git.io/typing-svg)
+
 </div>
 
 <br>
