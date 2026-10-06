@@ -114,59 +114,137 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-
-
-
-
-
-
-<h1 align="center">📬 Highlight Project Post:</h1>
-
-<br clear="both">
 <div align="center">
 
-<a  href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-html-css-activity-7311701650274938880-ZZQZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuaddhAlsway/Uber/blob/main/ReadMeUber.png?raw=true&title=🚀+Project+Update+:+Uber+Front+-+End+-+Study&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=450&border_radius=5&duration=172">
-    <img src="https://github.com/MuaddhAlsway/picture/blob/main/PayPal.png?raw=true" width="224"  &title=🚀+Project+Update+:+Uber+Front+-+End+-+Study&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="🚀 Project Update : Uber Front-End Study">
-  </picture>
-</a>
-<a  href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-frontend-portfolioproject-activity-7301546575229554688-eeLV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuaddhAlsway/picture/blob/main/PayPal.png?raw=true&title=🚀+Project+Update+:+Paypal+Front+-+End+-+Study&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=450&border_radius=5&duration=172">
-    <img src="https://github.com/MuaddhAlsway/picture/blob/main/PayPal.png?raw=true" width="218"  &title=🚀+Project+Update+:+Paypal+Front+-+End+-+Study&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="🚀 Project Update : Paypal Front-End Study">
-  </picture>
+# 🚀 Featured Full-Stack Projects
+
+### From concept to production.
+
+Building complete applications across **frontend, backend, databases, APIs, authentication, integrations, and deployment.**
+
+<br>
+
+<!-- ==================== QUICKSHOW ==================== -->
+
+## 🎬 QuickShow
+
+### Movie Ticket Booking Platform
+
+<a href="https://github.com/MuaddhAlsway/quickshowpro">
+  <img
+    src="https://raw.githubusercontent.com/MuaddhAlsway/readmePic/main/quickshow01.png"
+    width="720"
+    alt="QuickShow Full-Stack Movie Booking Platform"
+  />
 </a>
 
-<a  href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-frontend-html-activity-7291376258486087682-fUNN?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuaddhAlsway/picture/blob/main/Screenshot%202025-03-01%20142651.png?raw=true&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=450&border_radius=5&duration=172">
-    <img src="https://github.com/MuaddhAlsway/picture/blob/main/Screenshot%202025-03-01%20142651.png?raw=true" width="216"  &title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="🚀 Project Update : H&M Front-End Study">
-  </picture>
-</a><br>
-<a href="https://www.linkedin.com/posts/muaddh-alsway_frontend-html-css-activity-7279456674757681152-359f?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuaddhAlsway/picture/blob/main/Screenshot%202025-03-01%20143302.png?raw=true&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=450&border_radius=5&duration=172">
-    <img src="https://github.com/MuaddhAlsway/picture/blob/main/Screenshot%202025-03-01%20142651.png?raw=true"  width="220" &title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="🚀 Project Update : Udemy Front-End Study">
-  </picture>
+<br><br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Stripe-20232A?style=flat-square&logo=stripe&logoColor=635BFF" />
+<img src="https://img.shields.io/badge/Clerk-20232A?style=flat-square&logo=clerk&logoColor=6C47FF" />
+
+<br><br>
+
+Movie discovery • Show scheduling • Seat reservations • Stripe payments  
+Webhook reconciliation • Booking lifecycle • Automated emails • Admin dashboard
+
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/quickshowpro)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://quickshowprofront.vercel.app/)
+
+<br><br>
+
+---
+
+<br>
+
+<!-- ==================== FOREVER ==================== -->
+
+## 🛍️ Forever
+
+### Full-Stack MERN E-Commerce Platform
+
+<a href="https://github.com/MuaddhAlsway/Forever_Mu">
+  <img
+    src="https://raw.githubusercontent.com/MuaddhAlsway/readmePic/main/Forever.png"
+    width="720"
+    alt="Forever Full-Stack MERN E-Commerce Platform"
+  />
 </a>
-<a href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-html-css-activity-7268924770082000896-O8A7?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8"
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuaddhAlsway/picture/blob/main/Airbnb.png?raw=true&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=450&border_radius=5&duration=172">
-    <img src="https://github.com/MuaddhAlsway/picture/blob/main/Airbnb.png?raw=true"  width="220" &title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="🚀 Project Update : Airbnb Front-End Study">
-  </picture>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Stripe-20232A?style=flat-square&logo=stripe&logoColor=635BFF" />
+<img src="https://img.shields.io/badge/Cloudinary-20232A?style=flat-square&logo=cloudinary&logoColor=3448C5" />
+
+<br><br>
+
+Authentication • Product management • Shopping cart • Stripe payments  
+Order management • Customer profiles • Email workflows • Admin dashboard
+
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/Forever_Mu)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://forever-frontend-alpha-mauve.vercel.app/)
+
+<br><br>
+
+---
+
+<br>
+
+<!-- ==================== ESTATE ==================== -->
+
+## 🏡 Estate
+
+### Luxury Full-Stack Real Estate Platform
+
+<a href="https://realstate-1-ypty.onrender.com/">
+  <img
+    src="https://raw.githubusercontent.com/MuaddhAlsway/readmePic/main/RealState.png"
+    width="720"
+    alt="Estate Full-Stack Real Estate Platform"
+  />
 </a>
-<a href="https://www.linkedin.com/posts/muaddh-alsway_project-update-apple-front-end-study-activity-7258401590187876352-5S5i?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuaddhAlsway/picture/blob/main/Applw.png?raw=true&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=450&border_radius=5&duration=172">
-    <img src="https://github.com/MuaddhAlsway/picture/blob/main/Screenshot%202025-03-01%20142651.png?raw=true](https://github.com/MuaddhAlsway/picture/blob/main/Airbnb.png?raw=true"  width="220" &title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="🚀 Project Update : Apple Front-End Study">
-  </picture>
-</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Drizzle-20232A?style=flat-square&logo=drizzle&logoColor=C5F74F" />
+<img src="https://img.shields.io/badge/Neon-20232A?style=flat-square&logo=neon&logoColor=00E699" />
+
+<br><br>
+
+Property discovery • JWT authentication • Role-based access • Admin CMS  
+Property management • Viewing requests • Agent management • Analytics
+
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/realstate)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=000000)](https://realstate-1-ypty.onrender.com/)
+[![API](https://img.shields.io/badge/API-181717?style=for-the-badge&logo=render&logoColor=white)](https://realstate-rfu5.onrender.com/api/health)
+
+<br><br>
+
+---
+
+### 💻 Idea → Architecture → Development → Deployment
+
+**I build complete systems — not just interfaces.**
+
 </div>
-
-
-###
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=MuaddhAlsway&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
