@@ -126,6 +126,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhook-6E56CF?style=for-the-badge&logo=webhooks&logoColor=white)
 
 ![Environment Variables](https://img.shields.io/badge/Environment_Variables-000000?style=for-the-badge&logo=dotenv&logoColor=white)
 ![Dotenv](https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
