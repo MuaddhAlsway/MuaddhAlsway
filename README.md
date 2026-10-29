@@ -188,7 +188,7 @@ Clerk authentication • Customer accounts • Editorial journal • Admin CMS
 [![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/dq6pVqaq)
 [![Case Study](https://img.shields.io/badge/Case_Study-B8946B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mulab-theta.vercel.app/portfolio/fashion)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/Fashion)
-[![Documentation](https://img.shields.io/badge/Documentation-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/Fashion#readme)
+[![Documentation](https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/a0e59271ec4d4f48b1b05972a5a43d02?v=05ca79efdb2f44aebfbc004c2714f10c&source=copy_link)
 [![Backend](https://img.shields.io/badge/Backend-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)](https://fashion-hi6c.onrender.com/)
 [![API Health](https://img.shields.io/badge/API_Health-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)](https://fashion-hi6c.onrender.com/api/health)
 
