@@ -154,40 +154,43 @@ Building complete applications across **frontend, backend, databases, APIs, auth
 
 <br>
 
-<!-- ==================== QUICKSHOW ==================== -->
+<!-- ==================== FASHION ==================== -->
 
-## 🎬 QuickShow
+## 🛍️ Fashion
 
-### Movie Ticket Booking Platform
+### Full-Stack Fashion Commerce & Editorial Platform
 
-<a href="https://github.com/MuaddhAlsway/quickshowpro">
+<a href="https://github.com/MuaddhAlsway/Fashion">
   <img
-    src="https://raw.githubusercontent.com/MuaddhAlsway/readmePic/main/quickshow01.png"
+    src="https://raw.githubusercontent.com/MuaddhAlsway/Fashion/main/Fashion/FASHION.png"
     width="720"
-    alt="QuickShow Full-Stack Movie Booking Platform"
+    alt="Fashion — full-stack storefront and admin platform"
   />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=5FA04E" />
-<img src="https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Stripe-20232A?style=flat-square&logo=stripe&logoColor=635BFF" />
-<img src="https://img.shields.io/badge/Clerk-20232A?style=flat-square&logo=clerk&logoColor=6C47FF" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=5FA04E" />
+<img alt="Express" src="https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img alt="Clerk" src="https://img.shields.io/badge/Clerk-20232A?style=flat-square&logo=clerk&logoColor=6C47FF" />
 
 <br><br>
 
-Movie discovery • Show scheduling • Seat reservations • Stripe payments  
-Webhook reconciliation • Booking lifecycle • Automated emails • Admin dashboard
+Product discovery • Shopping bag • Wishlist • Checkout  
+Clerk authentication • Customer accounts • Editorial journal • Admin CMS
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/quickshowpro)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://quickshowprofront.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/d3A4n2Wh)
-[![Notion](https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/GreatStack-Movie-Ticket-Booking-Platform-3d0e97a262dc81dfb1b3fc98f9e46ebc?source=copy_link)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/Fashion)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fashion-clientsiding-ten.vercel.app/)
+[![Backend](https://img.shields.io/badge/Backend-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)](https://fashion-hi6c.onrender.com/)
+[![API Health](https://img.shields.io/badge/API_Health-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)](https://fashion-hi6c.onrender.com/api/health)
+[![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/dq6pVqaq)
+[![Case Study](https://img.shields.io/badge/Case_Study-B8946B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mulab-theta.vercel.app/portfolio/fashion)
+[![Documentation](https://img.shields.io/badge/Documentation-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/Fashion#readme)
 
 <br><br>
 
@@ -195,81 +198,51 @@ Webhook reconciliation • Booking lifecycle • Automated emails • Admin dash
 
 <br>
 
-<!-- ==================== FOREVER ==================== -->
+<!-- ==================== MUSTANGEERA ==================== -->
 
-## 🛍️ Forever
+## 🏎️ MustangeEra — Mustang Garage
 
-### Full-Stack MERN E-Commerce Platform
+### Full-Stack Automotive Collection & Magazine Platform
 
-<a href="https://github.com/MuaddhAlsway/Forever_Mu">
+<a href="https://github.com/MuaddhAlsway/MustangeEra">
   <img
-    src="https://raw.githubusercontent.com/MuaddhAlsway/readmePic/main/Forever.png"
+    src="https://raw.githubusercontent.com/MuaddhAlsway/MustangeEra/main/MustangeCharger/Mustang%20Garage.png"
     width="720"
-    alt="Forever Full-Stack MERN E-Commerce Platform"
+    alt="Mustang Garage — curated automotive collection and editorial platform"
   />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=5FA04E" />
-<img src="https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Stripe-20232A?style=flat-square&logo=stripe&logoColor=635BFF" />
-<img src="https://img.shields.io/badge/Cloudinary-20232A?style=flat-square&logo=cloudinary&logoColor=3448C5" />
+<img alt="React" src="https://img.shields.io/badge/React-20291E?style=flat-square&logo=react&logoColor=E5C49C" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20291E?style=flat-square&logo=typescript&logoColor=E5C49C" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-20291E?style=flat-square&logo=node.js&logoColor=E5C49C" />
+<img alt="Express" src="https://img.shields.io/badge/Express-20291E?style=flat-square&logo=express&logoColor=E5C49C" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-20291E?style=flat-square&logo=mongodb&logoColor=E5C49C" />
+<img alt="Clerk" src="https://img.shields.io/badge/Clerk-20291E?style=flat-square&logo=clerk&logoColor=E5C49C" />
+<img alt="GSAP" src="https://img.shields.io/badge/GSAP-20291E?style=flat-square&logo=greensock&logoColor=E5C49C" />
+<img alt="Resend" src="https://img.shields.io/badge/Resend-20291E?style=flat-square&logo=resend&logoColor=E5C49C" />
 
 <br><br>
 
-Authentication • Product management • Shopping cart • Stripe payments  
-Order management • Customer profiles • Email workflows • Admin dashboard
+Curated inventory • Machine detail pages • Collector dashboard • Saved cars  
+Editorial journal • GSAP transitions • Admin CMS • Contact inbox • Email notifications
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/Forever_Mu)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://forever-frontend-alpha-mauve.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/eHwFxRnf)
-[![Notion](https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/GreatStack-MERN-E-commerce-Platform-with-Stripe-3e1e97a262dc8138be7bcd06faffeaa5?source=copy_link)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/MustangeEra)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-20291E?style=for-the-badge&logo=vercel&logoColor=E5C49C)](https://mustange-era.vercel.app)
+[![Documentation](https://img.shields.io/badge/Documentation-20291E?style=for-the-badge&logo=readthedocs&logoColor=E5C49C)](https://github.com/MuaddhAlsway/MustangeEra#readme)
 
 <br><br>
 
 ---
 
-<br>
+### 💻 Idea → Architecture → Development → Deployment
 
-<!-- ==================== ESTATE ==================== -->
+**Thoughtful interfaces. Connected systems. Complete experiences.**
 
-## 🏡 Estate
-
-### Luxury Full-Stack Real Estate Platform
-
-<a href="https://realstate-1-ypty.onrender.com/">
-  <img
-    src="https://raw.githubusercontent.com/MuaddhAlsway/readmePic/main/RealState.png"
-    width="720"
-    alt="Estate Full-Stack Real Estate Platform"
-  />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=5FA04E" />
-<img src="https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Drizzle-20232A?style=flat-square&logo=drizzle&logoColor=C5F74F" />
-<img src="https://img.shields.io/badge/Neon-20232A?style=flat-square&logo=neon&logoColor=00E699" />
-
-<br><br>
-
-Property discovery • JWT authentication • Role-based access • Admin CMS  
-Property management • Viewing requests • Agent management • Analytics
-
-<br>
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/realstate)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=000000)](https://realstate-1-ypty.onrender.com/)
-[![API](https://img.shields.io/badge/API-181717?style=for-the-badge&logo=render&logoColor=white)](https://realstate-rfu5.onrender.com/api/health)
-[![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/eMPynEQP)
+</div>
 
 <br><br>
 
