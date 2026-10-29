@@ -242,15 +242,6 @@ Editorial journal • GSAP transitions • Admin CMS • Contact inbox • Email
 
 **Thoughtful interfaces. Connected systems. Complete experiences.**
 
-</div>
-
-<br><br>
-
----
-
-### 💻 Idea → Architecture → Development → Deployment
-
-**I build complete systems — not just interfaces.**
 
 </div>
 
