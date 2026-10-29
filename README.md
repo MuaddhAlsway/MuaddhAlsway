@@ -230,9 +230,13 @@ Editorial journal • GSAP transitions • Admin CMS • Contact inbox • Email
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/MustangeEra)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-20291E?style=for-the-badge&logo=vercel&logoColor=E5C49C)](https://mustange-era.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/muaddh-alsway_webdeveloper-softwaredeveloper-webdevelopment-ugcPost-7521462184074166272-6YHh/)
+[![Case Study](https://img.shields.io/badge/Case_Study-20291E?style=for-the-badge&logo=readme&logoColor=E5C49C)](https://mulab-theta.vercel.app/portfolio/mustang-garage)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/MustangeEra)
 [![Documentation](https://img.shields.io/badge/Documentation-20291E?style=for-the-badge&logo=readthedocs&logoColor=E5C49C)](https://github.com/MuaddhAlsway/MustangeEra#readme)
+[![Backend](https://img.shields.io/badge/Backend-20291E?style=for-the-badge&logo=render&logoColor=E5C49C)](https://mustangeera.onrender.com/)
+[![API Health](https://img.shields.io/badge/API_Health-20291E?style=for-the-badge&logo=render&logoColor=E5C49C)](https://mustangeera.onrender.com/api/health)
 
 <br><br>
 
@@ -242,7 +246,7 @@ Editorial journal • GSAP transitions • Admin CMS • Contact inbox • Email
 
 **Thoughtful interfaces. Connected systems. Complete experiences.**
 
-
+----
 </div>
 
 # 📊 GitHub Stats:
