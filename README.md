@@ -184,13 +184,13 @@ Clerk authentication • Customer accounts • Editorial journal • Admin CMS
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/Fashion)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fashion-clientsiding-ten.vercel.app/)
-[![Backend](https://img.shields.io/badge/Backend-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)](https://fashion-hi6c.onrender.com/)
-[![API Health](https://img.shields.io/badge/API_Health-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)](https://fashion-hi6c.onrender.com/api/health)
 [![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/dq6pVqaq)
 [![Case Study](https://img.shields.io/badge/Case_Study-B8946B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mulab-theta.vercel.app/portfolio/fashion)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/Fashion)
 [![Documentation](https://img.shields.io/badge/Documentation-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/Fashion#readme)
+[![Backend](https://img.shields.io/badge/Backend-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)](https://fashion-hi6c.onrender.com/)
+[![API Health](https://img.shields.io/badge/API_Health-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)](https://fashion-hi6c.onrender.com/api/health)
 
 <br><br>
 
