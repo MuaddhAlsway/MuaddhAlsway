@@ -186,11 +186,14 @@ Clerk authentication • Customer accounts • Editorial journal • Admin CMS
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fashion-clientsiding-ten.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/dq6pVqaq)
+[![Instagram 01](https://img.shields.io/badge/Instagram_01-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DfIUZywnG0S/)
+[![Instagram 02](https://img.shields.io/badge/Instagram_02-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DfJ2dixjBej/)
 [![Case Study](https://img.shields.io/badge/Case_Study-B8946B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mulab-theta.vercel.app/portfolio/fashion)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/Fashion)
 [![Documentation](https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/a0e59271ec4d4f48b1b05972a5a43d02?v=05ca79efdb2f44aebfbc004c2714f10c&source=copy_link)
 [![Backend](https://img.shields.io/badge/Backend-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)](https://fashion-hi6c.onrender.com/)
 [![API Health](https://img.shields.io/badge/API_Health-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)](https://fashion-hi6c.onrender.com/api/health)
+
 
 <br><br>
 
@@ -232,6 +235,8 @@ Editorial journal • GSAP transitions • Admin CMS • Contact inbox • Email
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-20291E?style=for-the-badge&logo=vercel&logoColor=E5C49C)](https://mustange-era.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/muaddh-alsway_webdeveloper-softwaredeveloper-webdevelopment-ugcPost-7521462184074166272-6YHh/)
+[![Instagram 01](https://img.shields.io/badge/Instagram_01-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DfOzpNODBhD/)
+[![Instagram 02](https://img.shields.io/badge/Instagram_02-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DfO0D_wjAPi/)
 [![Case Study](https://img.shields.io/badge/Case_Study-20291E?style=for-the-badge&logo=readme&logoColor=E5C49C)](https://mulab-theta.vercel.app/portfolio/mustang-garage)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/MustangeEra)
 [![Documentation](https://img.shields.io/badge/Documentation-20291E?style=for-the-badge&logo=readthedocs&logoColor=E5C49C)](https://github.com/MuaddhAlsway/MustangeEra#readme)
