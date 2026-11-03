@@ -240,6 +240,57 @@ Editorial journal • GSAP transitions • Admin CMS • Contact inbox • Email
 
 <br><br>
 
+
+<!-- ==================== THE TABLE ==================== -->
+
+<br>
+
+---
+
+<br>
+
+## 🍽️ THE TABLE
+
+### Full-Stack Restaurant Ordering & Operations Platform
+
+<a href="https://github.com/MuaddhAlsway/TheTable">
+  <img
+    src="https://raw.githubusercontent.com/MuaddhAlsway/TheTable/main/client/src/assets/HeroPage.png"
+    width="720"
+    alt="THE TABLE — restaurant ordering and operations platform"
+  />
+</a>
+
+<br><br>
+
+<img alt="React" src="https://img.shields.io/badge/React-292E24?style=flat-square&logo=react&logoColor=F5F0E7" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-292E24?style=flat-square&logo=typescript&logoColor=F5F0E7" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-292E24?style=flat-square&logo=node.js&logoColor=F5F0E7" />
+<img alt="Express" src="https://img.shields.io/badge/Express-292E24?style=flat-square&logo=express&logoColor=F5F0E7" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-292E24?style=flat-square&logo=mongodb&logoColor=F5F0E7" />
+<img alt="Clerk" src="https://img.shields.io/badge/Clerk-292E24?style=flat-square&logo=clerk&logoColor=F5F0E7" />
+<img alt="Stripe" src="https://img.shields.io/badge/Stripe-292E24?style=flat-square&logo=stripe&logoColor=F5F0E7" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-292E24?style=flat-square&logo=vite&logoColor=F5F0E7" />
+
+<br><br>
+
+Online ordering • Delivery & pickup • Restaurant reservations • QR table ordering  
+Stripe checkout • Customer accounts • Cashier & kitchen dashboards  
+Driver management • Admin CMS • Staff access control • Email & SMS notifications
+
+<br>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-292E24?style=for-the-badge&logo=vercel&logoColor=F5F0E7)](https://the-table-khaki.vercel.app/)
+[![Case Study](https://img.shields.io/badge/Case_Study-A26748?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mulab-theta.vercel.app/portfolio/the-table)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuaddhAlsway/TheTable)
+[![Documentation](https://img.shields.io/badge/Documentation-292E24?style=for-the-badge&logo=readme&logoColor=F5F0E7)](https://github.com/MuaddhAlsway/TheTable#readme)
+[![Backend](https://img.shields.io/badge/Backend-292E24?style=for-the-badge&logo=render&logoColor=F5F0E7)](https://thetable-50sf.onrender.com/)
+[![API Health](https://img.shields.io/badge/API_Health-292E24?style=for-the-badge&logo=render&logoColor=F5F0E7)](https://thetable-50sf.onrender.com/health)
+
+<br><br>
+
+---
+
 ---
 
 ### 💻 Idea → Architecture → Development → Deployment
